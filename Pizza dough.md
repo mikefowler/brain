@@ -12,11 +12,11 @@ share: "true"
 
 ### Dry Ingredients
 
-- ¼ cup [[Nutrition Facts#Anthony's Coconut Flour|coconut flour]]
-- ½ cup [[Nutrition Facts#Anthony's Almond Flour|almond flour]]
+- ¼ cup [coconut flour](./Nutrition%20Facts.md#Anthony's%20Coconut%20Flour)
+- ½ cup [almond flour](./Nutrition%20Facts.md#Anthony's%20Almond%20Flour)
 - ½ teaspoon baking powder
-- 3 tablespoons [[Nutrition Facts#Anthony's Whole Psyllium Husk|ground psyllium husk]]
-- 2 tablespoons [[Nutrition Facts#Anthony's Vital Wheat Gluten|vital wheat gluten]]
+- 3 tablespoons [ground psyllium husk](./Nutrition%20Facts.md#Anthony's%20Whole%20Psyllium%20Husk)
+- 2 tablespoons [vital wheat gluten](./Nutrition%20Facts.md#Anthony's%20Vital%20Wheat%20Gluten)
 - ¼ teaspoon salt
 - 1 teaspoon xanthan gum
 ### Wet Ingredients
