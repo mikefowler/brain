@@ -1,6 +1,6 @@
 ---
-created: 2024-11-11T23:34:18-08:00
-updated: 2024-11-12T12:03:11-08:00
+created: 2024-11-12T02:34:18-05:00
+updated: 2024-11-15T20:38:51-05:00
 cssclasses:
   - list-cards
 share: "true"
@@ -9,7 +9,9 @@ share: "true"
 
 ## Song Leaders
 
+- [Lisa Littlebird](https://thebirdsings.com/)
 - [Jack Philip Carson](https://jackphilipcarson.com/)
+- [Shimshai y Susana](https://shimshaisusana.com/)
 
 ## Songbooks
 
